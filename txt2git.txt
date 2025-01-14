@@ -1,2 +1,4 @@
 i am learning git khaleeda.. heloo change for commit..change for working directory
+this is second line
+this is thried line
 
